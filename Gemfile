@@ -22,6 +22,8 @@ gem 'coffee-rails', '~> 4.2'
 # gem 'therubyracer', platforms: :ruby
 gem 'graphql'
 gem 'bcrypt', '~> 3.1.7'
+gem 'search_object'
+gem 'search_object_graphql'
 
 
 # Use jquery as the JavaScript library
